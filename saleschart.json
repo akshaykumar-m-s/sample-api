@@ -1,0 +1,8 @@
+{
+  "chartSeries": {
+    "name": "Sales Profit",
+    "data": [30, 45, 32, 70, 40],
+    "category": ["Feb", "Mar", "Apr", "May", "Jun", "Jul"]
+  },
+  "totalValue": 590
+}
